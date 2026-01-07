@@ -10,7 +10,7 @@ Responsável: Raíssa Assis
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Raíssa Assis. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
-O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serão descritas as etapas do projeto:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especí­ficos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
 - Amazon S3
@@ -80,7 +80,7 @@ Fornecer capacidade computacional sob demanda, reduzindo custos com servidores f
   - Selecionar a instância
   - Clicar em *Stop*
 - **Monitorar status**
-  - Verificar o estado da instância (*running* ou *stopped*)
+  - Verificar o estado da instância
 
 ### Boas práticas
 - Manter instâncias desligadas quando não estiverem em uso
